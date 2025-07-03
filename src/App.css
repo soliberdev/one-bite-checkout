@@ -1,0 +1,18 @@
+#root {
+  margin: 1rem;
+  margin-top: 2rem;
+  padding: 1.5rem;
+  text-align: center;
+  border-radius: 2.5rem;
+  background-color: #254d70;
+  position: relative;
+}
+
+@media (max-width: 640px) {
+  #root {
+    margin: 0;
+    margin-top: 1.5rem;
+    border-radius: 1.5rem 1.5rem 0 0;
+    background-color: #254d70;
+  }
+}
