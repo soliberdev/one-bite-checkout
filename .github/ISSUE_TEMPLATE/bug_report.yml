@@ -1,8 +1,8 @@
 name: 🐛 Bug Report
-about: Report an error to help improve the project
-title: "🐞 [BUG] - Short description of the issue"
-labels: bug
-assignees: ''
+description: Report an error to help improve the project
+title: "🐞 BUG: Short description of the issue"
+labels: [bug]
+assignees: [soliberdev]
 
 body:
   - type: markdown
